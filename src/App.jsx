@@ -1,4 +1,5 @@
 import { Formularz } from "./zadania/Formularz"
+import { Galeria } from "./zadania/Galeria"
 import { Liczba } from "./zadania/Liczba"
 import { Licznik } from "./zadania/Licznik"
 import { ListaZadan } from "./zadania/ListaZadan"
@@ -8,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <Liczba />
+      <Galeria />
     </div>
   )
 }

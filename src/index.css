@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.image {
+    object-fit: fill;
+    width: 200px;
+}
+.filter-group {
+    display: flex;
+}
