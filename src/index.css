@@ -10,3 +10,16 @@
 .filter-group {
     display: flex;
 }
+.users-element {
+    display: flex;
+    gap: 10px;
+}
+.users-element p {
+    width: 200px;
+}
+.user-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 15px;
+}
